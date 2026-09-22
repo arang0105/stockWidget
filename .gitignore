@@ -1,0 +1,14 @@
+# 자격증명 — 절대 올리지 않는다
+.env
+kakao_token.json
+kis_token.json
+
+# 자동 생성 — 사용자 PC 상태이지 코드가 아니다
+config.json
+alert_state.json
+alerts.log
+stocks.json
+__pycache__/
+
+# PC 고유 정보(경로·컴퓨터 이름)가 들어 있어 제외
+*.lnk
